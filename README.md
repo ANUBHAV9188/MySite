@@ -1,2 +1,2 @@
 # MySite
-I developed  this website using Python Django framework. 
+I developed  this Paragraph Change website using Python Django framework. 
